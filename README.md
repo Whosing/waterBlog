@@ -14,5 +14,27 @@
 ## Block Elements
 ### Paragraphs and Line Breaks
 #### Paragraphs
+## Block Elements
+### Paragraphs and Line Breaks
+#### Paragraphs
+HTML Tag: `<p>`
+
+One or more blank lines. (A blank line is a line containing nothing but **spaces** or **tabs** is considered blank.)
+
+Code:
+
+    This will be 
+    inline.
+    
+    This is second paragraph.
+Preview:
+***
+This will be 
+inline.
+
+This is second paragraph.
+***
+#### Line Breaks
+HTML Tag: `<br />`
 
 
